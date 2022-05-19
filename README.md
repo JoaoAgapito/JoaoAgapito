@@ -1,6 +1,9 @@
 ### Olá, eu sou o João Victor. 🖖 
 ![JoaoAgapito GitHub stats](https://github-readme-stats.vercel.app/api?username=joaoagapito&show_icons=true&theme=dark)
 
-## Tecnologia que estou estudando:
+## Tecnologias que estou estudando:
 
-<img align="center" alt="nodejs" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" data-canonical-src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&amp;logo=node.js&amp;logoColor=white" style="max-width: 100%;">
+<div style="display: inline_block">
+  <img align="center" alt="html5" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img align="center" alt="css" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+</div><br/>
