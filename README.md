@@ -8,6 +8,10 @@
   <img align="center" alt="css" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
 </div><br/>
 
+## Contatos
+
+[![Linkdin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/joão-victor-a81a8a241)
+
 </div>
  
  
